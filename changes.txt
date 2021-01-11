@@ -1,0 +1,1044 @@
+Version - 3.0.8 - Released date 2nd Oct, 2020
+============================================================================
+Upgraded for WHMCS 8.0 stable release
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version please read following:  
+
+
+(Replaced all below files)
+========================================================
+========================================================
+
+(.tpl files)
+============================
+all files and folders need to be replaced except header and footer tpl and all additional pages tpl files which are given below.
+
+about-us.tpl
+homepage.tpl
+web-hosting.tpl
+web-hosting windows.tpl
+reseller-hosting.tpl
+vps-hosting.tpl
+dedicated-servers.tpl
+ssl-certificates.tpl
+
+
+Order forms changed
+============================
+All files and folders
+
+
+
+
+
+Please Note:
+after update you must required to clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also. 
+
+========================================================
+
+
+
+
+
+
+
+
+
+
+
+Version - 3.0.6 - Released date 21st Feb, 2020
+============================================================================
+Upgraded for WHMCS 7.9.2 release
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version please read following:  
+
+
+(Replaced all below files)
+========================================================
+========================================================
+
+account-paymentmethods.tpl
+/payment/*
+/store/order.tpl
+
+
+
+
+Order forms changed
+============================
+/js/*
+
+
+
+
+
+Please Note:
+after update you must required to clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also. 
+
+========================================================
+
+
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+Version - 3.0.5 - Released date 10th Jan, 2020
+============================================================================
+Upgraded for WHMCS 7.9.0 release
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version please read following:  
+
+
+(Replaced all below files)
+========================================================
+========================================================
+
+account-paymentmethods-manage.tpl
+account-paymentmethods.tpl
+clientareaproductdetails.tpl
+creditcard.tpl
+footer.tpl
+includes/captcha.tpl
+includes/generate-password.tpl
+includes/sidebar.tpl
+/store/*
+
+
+/assets/js/scripts.js
+/assets/js/scripts.min.js
+
+/assets/css/whmcs.min.css
+/assets/css/invoice.css
+
+New Files added in 7.9
+==============================
+clientareaproductusagebilling.tpl
+invoice-payment.tpl
+usagebillingpricing.tpl
+oauth/css/index.php
+/payment/*
+
+
+
+
+Order forms changed
+============================
+all files and folders
+
+
+
+
+
+Please Note:
+after update you must required to clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also. 
+
+========================================================
+
+
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+Version - 3.0.4 - Released date 25th September, 2019
+============================================================================
+Upgraded for WHMCS 7.8.3 release
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version please read following:  
+
+
+(Replaced all below files)
+========================================================
+========================================================
+
+includes/captcha.tpl
+creditcard.tpl
+
+/assets/js/scripts.js
+/assets/js/scripts.min.js
+
+
+
+Order forms changed
+============================
+/css/all.css
+css/all.min.css
+/js/scripts.js
+/js/scripts.min.js
+
+
+
+
+
+Please Note:
+after update you must required to clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also. 
+
+========================================================
+
+
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version - 3.0.3 - Released date 6th September, 2019
+============================================================================
+Upgraded for WHMCS 7.8.2 release
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version please read following:  
+
+
+(Replaced all below files)
+========================================================
+========================================================
+
+password-reset-container.tpl
+password-reset-security-prompt.tpl
+
+/assets/js/scripts.js
+/assets/js/scripts.min.js
+
+
+
+Order forms changed
+============================
+/js/scripts.js
+/js/scripts.min.js
+checkout.tpl
+
+
+
+
+Please Note:
+after update you must required to clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also. 
+
+========================================================
+
+
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+Version - 3.0.2 - Maintenace Released date 30th August, 2019
+============================================================================
+Upgraded for WHMCS 7.8
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version please read following:  
+
+
+(changed files)
+========================================================
+========================================================
+
+footer.tpl
+
+To see the changes between old footer.tpl and new footer.tpl files OR any other tpl files you may use below website. 
+https://www.diffchecker.com/
+
+============================
+all files and folders need to be replaced tpl files which are given below.
+
+affiliates.tpl
+clientareadetails.tpl
+clientareadomains.tpl
+clientareaemails.tpl
+clientareainvoices.tpl
+clientareaproducts.tpl
+clientareaquotes.tpl
+supportticketslist.tpl
+clientareaaddcontact.tpl
+clientareachangepw.tpl 
+clientareacontacts.tpl
+clientareadomaindetails.tpl
+clientareaproductdetails.tpl
+clientareasecurity.tpl
+clientregister.tpl
+invoicepdf.tpl
+login.tpl
+masspay.tpl
+viewannouncement.tpl
+viewinvoice.tpl
+viewticket.tpl
+
+/includes/tablelist.tpl
+
+/store/*
+/oauth/login.tpl
+
+New Files added in 7.8
+==============================
+
+includes/generate-password.tpl
+
+account-paymentmethods-billing-contacts.tpl
+account-paymentmethods-manage.tpl
+account-paymentmethods.tpl
+password-reset-change-prompt.tpl
+password-reset-container.tpl
+password-reset-email-prompt.tpl
+password-reset-security-prompt.tpl
+
+
+/assets/css/blue.png
+/assets/css/blue@2x.png
+
+
+(Other files)
+============================
+/assets/css/whmcs.min.css
+/assets/css/invoice.css
+
+
+Order forms changed
+============================
+All files and folders
+
+
+
+
+============================
+To see the changes between old and new files OR any other tpl files you may use below website. 
+https://www.diffchecker.com/
+
+
+
+
+Please Note:
+after update you must required to clear template caches and browser cookies then hard refresh your browser. 
+
+========================================================
+
+
+If you want this upgrade to be done by our professional team, you may buy our professional upgrade services in just $49 one time by using below link
+https://thememetro.com/cart.php?gid=2
+
+
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+Version - 3.0.1 - Maintenace Released date 10h Jun, 2019
+============================================================================
+Upgraded for WHMCS 7.7.1
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version please read following:  
+
+
+(Replaced all below files)
+========================================================
+========================================================
+
+(.tpl files)
+============================
+all files and folders need to be replaced except additional pages tpl files which are given below.
+
+affiliates.tpl
+clientareaaddfunds.tpl
+clientareaproductdetails.tpl
+clientareadomaindetails.tpl
+clientareasecurity.tpl
+clientregister.tpl
+clientareahome.tpl
+login.tpl
+logout.tpl
+clientareadomains.tpl
+clientareaproducts.tpl
+supportticketslist.tpl
+clientareainvoices.tpl
+clientareaquotes.tpl
+twitterfeed.tpl
+viewinvoice.tpl
+viewquote.tpl
+
+/includes/sidebar.tpl
+/includes/tablelist.tpl
+
+
+(Other files)
+============================
+/assets/css/whmcs.min.css
+/assets/js/plugins/slimscroll/*
+
+
+
+
+============================
+To see the changes between old and new files OR any other tpl files you may use below website. 
+https://www.diffchecker.com/
+
+
+
+
+Please Note:
+after update you must required to clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also. 
+
+========================================================
+
+
+If you want this upgrade to be done by our professional team, you may buy our professional upgrade services in just $49 one time by using below link
+https://thememetro.com/cart.php?gid=2
+
+
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+Version - 3.0 - Released date 30h Jan, 2019
+============================================================================
+Upgraded for WHMCS 7.7.0 release 1
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version please read following:  
+
+
+(Replaced all below files)
+========================================================
+========================================================
+
+(.tpl files)
+============================
+all files and folders need to be replaced except additional pages tpl files which are given below.
+
+about-us.tpl
+homepage.tpl
+web-hosting.tpl
+web-hosting windows.tpl
+reseller-hosting.tpl
+vps-hosting.tpl
+dedicated-servers.tpl
+ssl-certificates.tpl
+
+
+(.php files)
+============================
+Need to replace all php files for additional pages along with provided navigation hooks.
+
+
+Order forms changed
+============================
+All files and folders
+
+
+
+============================
+To see the changes between old and new files OR any other tpl files you may use below website. 
+https://www.diffchecker.com/
+
+
+
+
+Please Note:
+after update you must required to clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also. 
+
+========================================================
+
+
+If you want this upgrade to be done by our professional team, you may buy our professional upgrade services in just $49 one time by using below link
+https://thememetro.com/cart.php?gid=2
+
+
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+Version - 1.0.8 - Released date 24h Jan, 2019
+============================================================================
+Upgraded for WHMCS 7.7.0 release 1
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0.7) please read following:  
+
+
+(Replaced all below files)
+========================================================
+
+(.tpl files)
+============================
+clientareaaddcontact.tpl
+clientareacontacts.tpl
+clientareacreditcard.tpl
+clientareadetails.tpl
+clientareadomaindetails.tpl
+clientareadomains.tpl
+clientareahome.tpl
+clientareaproductdetails.tpl
+clientareaproducts.tpl
+clientregister.tpl
+contact.tpl
+
+includes/captcha.tpl
+includes/head.tpl
+
+invoicepdf.tpl
+supportticketsubmit-steptwo.tpl
+upgrade-configure.tpl
+viewinvoice.tpl
+
+
+store/codeguard/index.tpl
+store/css/style.css
+store/weebly/upgrade.tpl
+
+
+
+assets/js/scripts.js
+assets/js/scripts.min.js
+assets/js/whmcs.js
+
+assets/css/whmcs.css
+assets/css/whmcs.min.css
+
+Order forms changed -
+============================
+checkout.tpl
+domainregister.tpl
+domaintransfer.tpl
+marketconnect-promo.tpl
+
+js/base.js
+js/scripts.js
+js/scripts.min.js
+
+
+Please Note:
+after update you must required to clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also. 
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+Version - 1.0.7 - Released date 29h Aug, 2018
+============================================================================
+Upgraded for WHMCS 7.6.1
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0.6) please read following:  
+
+
+(Replaced all below files)
+========================================================
+
+(.tpl files)
+============================
+clientareacreditcard.tpl
+knowledgebase.tpl
+knowledgebasearticle.tpl
+knowledgebasecat.tpl
+twitterfeed.tpl
+
+
+
+Order forms changed -
+============================
+css/all.css
+css/all.min.css
+checkout.tpl
+fraudcheck.tpl
+
+
+Please Note:
+after update you must required to clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also. 
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version - 1.0.6 - Released date 4h Aug, 2018
+============================================================================
+Upgraded for WHMCS 7.6.0
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0.5) please read following:  
+
+
+(Replaced all below files)
+========================================================
+
+(CSS files)
+============================
+assets/css/themes/*
+assets/css/whmcs.css
+assets/css/whmcs.min.css
+
+New Files
+------------------
+assets/css/fontawsome.css
+assets/css/fontawsome.min.css
+
+New Folder
+------------------
+assets/webfonts/
+
+(.js files)
+============================
+assets/js/scripts.js
+assets/js/scripts.min.js
+assets/js/twitter.min.js
+
+(.tpl files)
+============================
+Since WHMCS upgraded Font Awesome icon version from 4.x to 5.x, All tpl files should be replaced.
+
+Please use following below website to find out the difference between old and new tpl files.
+https://www.diffchecker.com/
+
+In additional pages, header and footer .tpl files only Font Awesome icons are changed.
+If you find any icon missing in your current custumized pages just simply visit below link and change icon as per Font Awesome new icon.
+https://fontawesome.com/icons
+
+
+
+Order forms changed -
+============================
+All files and folders
+
+
+Please Note:
+after update you must required to clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also. 
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version - 1.0.5 - Released date 19th April, 2018
+============================================================================
+Upgraded for WHMCS 7.5.1
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0.4) please read following below:  
+
+
+(Replaced all below files)
+========================================================
+assets/js/scripts.js
+assets/js/scripts.min.js
+
+
+Order forms changed -
+================================
+common.tpl
+domain-renewals.tpl
+js/base.js
+js/scripts.js
+js/scripts.min.js
+
+
+Please Note:
+after update you must required clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also.
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version - 1.0.4 - Released date 4th April, 2018
+============================================================================
+Upgraded for WHMCS 7.5.0
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0.3) please read following below:  
+
+
+(Replaced all below files)
+========================================================
+announcements.tpl
+clientareadetails.tpl
+clientareadomaindetails.tpl
+clientareadomains.tpl
+clientregister.tpl
+knowledgebase.tpl
+knowledgebasearticle.tpl
+knowledgebasecat.tpl
+viewannouncement.tpl
+
+includes/head.tpl
+includes/tablelist.tpl
+
+store/*
+
+assets/css/whmcs.css
+assets/css/whmcs.min.css
+
+assets/js/scripts.js
+assets/js/scripts.min.js
+
+New File added
+================================
+domain-pricing.tpl 
+subscription-manage.tpl
+upgrade-configure.tpl
+
+If any error comes in additional pages, replace all php files also
+==================================
+about-us.php
+we-hosting.php
+web-hosting-windows.php
+reseller-hosting.php
+vps-hosting.php
+dedicated-servers.php
+ssl-certificates.php
+------------------------
+
+
+Order forms changed -
+(replaced all files and folders)
+================================
+/redo-default/*
+/redo-default-rtl/*
+
+
+
+
+Please Note:
+after update you must required clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also.
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version - 1.0.3 - Released date 10th January, 2018
+============================================================================
+Upgraded for WHMCS 7.4.2
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0.2) please read following below:  
+
+
+Template file changed -
+========================================================
+
+(Replaced all below files)
+================================
+assets/js/scripts.js
+assets/js/scripts.min.js
+
+
+Order forms changed -
+(replaced all files and folders)
+================================
+/redo-default/js/*
+/redo-default/checkout.tpl
+
+/redo-default-rtl/js/*
+/redo-default-rtl/checkout.tpl
+
+
+
+
+
+Please Note:
+after update you must required clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also.
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version - 1.0.2 - Released date 16th November, 2017
+============================================================================
+Upgraded for WHMCS 7.4.1
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0.1) please read following below:  
+
+
+Template file changed -
+========================================================
+Edit header.tpl - line number 33 (added data-phone-cc-input="{$phoneNumberInputStyle}" in body tag)
+
+(Replaced all below files)
+================================
+creditcard.tpl
+knowledgebase.tpl
+
+store/*
+oauth/*
+
+assets/css/whmcs.css
+assets/css/whmcs.min.css
+
+assets/js/scripts.js
+assets/js/scripts.min.js
+assets/js/whmcs.js
+
+New Imgaes added
+================================
+assets/img/flags.png
+assets/img/flags@2x.png
+
+Order forms changed -
+(replaced all files and folders)
+================================
+/js/*
+/css/*
+/checkout.tpl
+/domainregister.tpl
+
+
+New file added (optional)
+--------------------
+index.php (in all sub directories in template and order form.)
+
+
+
+
+Please Note:
+after update you must required clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also.
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+Version - 1.0.1 - Released date 5th October, 2017
+============================================================================
+Upgraded for WHMCS 7.3.0
+
+This is the recommended version for all new installs & upgrades from any earlier version.
+To update your current version of Redo (1.0) please read following below:  
+
+
+Template file changed -
+========================================================
+
+(Replaced all below files)
+================================
+clientareaaddcontact.tpl
+clientareacontacts.tpl
+clientareacreditcard.tpl
+clientareasecurity.tpl
+clientregister.tpl
+knowledgebasearticle.tpl
+login.tpl
+twitterfeed.tpl
+viewinvoice.tpl
+
+includes/captcha.tpl
+includes/verifyemail.tpl
+
+error/page-not-found.tpl
+
+store/spamexperts/index.tpl
+store/ssl/dv.tpl
+store/ssl/ev.tpl
+store/ssl/index.tpl
+store/ssl/ov.tpl
+store/ssl/wildcard.tpl
+store/weebly/index.tpl
+store/weebly/upgrade.tpl
+
+New file added
+--------------------
+includes/linkedaccounts.tpl
+
+
+assets/css/whmcs.css
+assets/css/whmcs.min.css
+assets/css/invoice.css
+
+assets/js/scripts.js
+assets/js/scripts.min.js
+assets/js/whmcs.js
+
+
+Order forms changed -
+(replaced all files and folders)
+================================
+/js/*
+/css/*
+/viewcart.tpl
+/checkout.tpl
+
+New file added
+--------------------
+/linkedaccounts.tpl
+
+================================
+
+Please Note:
+after update you must required clear template caches and hard refresh your browser,
+Its better if you clear your browser history, cookies and caches also.
+
+========================================================
+
+Thank you very much!
+If you have any suggestion or feedback please contact us by ticket.
+
